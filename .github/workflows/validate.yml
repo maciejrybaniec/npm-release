@@ -28,6 +28,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Pull latest changes from main branch
+        run: git pull --force --no-tags origin main:main
+
       - name: Setup NodeJS
         uses: actions/setup-node@v3
         with:
