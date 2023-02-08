@@ -1,6 +1,9 @@
 {
   "name": "npm-release",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
   "scripts": {
     "commit": "git cz"
   },
@@ -8,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@changesets/cli": "^2.26.0",
     "commitizen": "^4.3.0",
     "git-cz": "^4.9.0"
   },
