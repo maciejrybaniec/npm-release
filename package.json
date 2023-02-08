@@ -1,0 +1,19 @@
+{
+  "name": "npm-release",
+  "private": true,
+  "scripts": {
+    "commit": "git cz"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commitizen": "^4.3.0",
+    "git-cz": "^4.9.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "git-cz"
+    }
+  }
+}
