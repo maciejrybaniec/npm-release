@@ -1,1 +1,1 @@
-console.log('@mr/react');
+console.log('@mr/react 2');
