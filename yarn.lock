@@ -398,7 +398,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mr/react@workspace:*, @mr/react@workspace:packages/react":
+"@mr/react@workspace:^, @mr/react@workspace:packages/react":
   version: 0.0.0-use.local
   resolution: "@mr/react@workspace:packages/react"
   languageName: unknown
@@ -408,7 +408,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@mr/ui@workspace:packages/ui"
   dependencies:
-    "@mr/react": "workspace:*"
+    "@mr/react": "workspace:^"
   languageName: unknown
   linkType: soft
 

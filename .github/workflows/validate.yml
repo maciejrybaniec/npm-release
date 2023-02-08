@@ -4,7 +4,7 @@ on:
 
 jobs:
   cache:
-    name: Create cache for all steps
+    name: Create cache
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
