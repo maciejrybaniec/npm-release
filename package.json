@@ -5,7 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "commit": "git cz"
+    "commit": "git cz",
+    "version": "changeset version && yarn install"
   },
   "keywords": [],
   "author": "",
