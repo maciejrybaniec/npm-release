@@ -1,5 +1,11 @@
 # @rybaniec/react
 
+## 1.0.1
+
+### Patch Changes
+
+- [#15](https://github.com/maciejrybaniec/npm-release/pull/15) [`003ecbb`](https://github.com/maciejrybaniec/npm-release/commit/003ecbb5976fe5a9e6039fee30c299b26683c80d) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - pacz
+
 ## 0.1.3
 
 ### Patch Changes
