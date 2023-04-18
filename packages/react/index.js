@@ -1,1 +1,1 @@
-console.log('@mr/react 5');
+console.log('@mr/react 6');
