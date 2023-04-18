@@ -1,5 +1,11 @@
 # @rybaniec/react
 
+## 0.1.1
+
+### Patch Changes
+
+- [#7](https://github.com/maciejrybaniec/npm-release/pull/7) [`b569030`](https://github.com/maciejrybaniec/npm-release/commit/b5690309d6ebafb6b51890d129b75508ff720ec9) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - fix issue
+
 ## 0.1.0
 
 ### Minor Changes
