@@ -1,5 +1,12 @@
 # @rybaniec/ui
 
+## 0.0.5
+
+### Patch Changes
+
+- Updated dependencies [[`486fbfa`](https://github.com/maciejrybaniec/npm-release/commit/486fbfae81be9c0417e52f97131022ad05d76d13)]:
+  - @rybaniec/react@0.1.0
+
 ## 0.0.4
 
 ### Patch Changes
