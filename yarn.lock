@@ -446,7 +446,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@rybaniec/react@workspace:^1.0.0, @rybaniec/react@workspace:packages/react":
+"@rybaniec/react@workspace:*, @rybaniec/react@workspace:packages/react":
   version: 0.0.0-use.local
   resolution: "@rybaniec/react@workspace:packages/react"
   languageName: unknown
@@ -456,7 +456,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "@rybaniec/ui@workspace:packages/ui"
   dependencies:
-    "@rybaniec/react": "workspace:^1.0.0"
+    "@rybaniec/react": "workspace:*"
   languageName: unknown
   linkType: soft
 
