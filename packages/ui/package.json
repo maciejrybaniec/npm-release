@@ -1,10 +1,10 @@
 {
   "name": "@rybaniec/ui",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@rybaniec/react": "workspace:*"
+    "@rybaniec/react": "workspace:^1.0.0"
   },
   "keywords": [],
   "author": "",
