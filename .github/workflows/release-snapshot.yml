@@ -28,14 +28,14 @@ jobs:
       - name: Bump Package Versions
         id: changesets
         run: |
-          yarn changeset version --snapshot bulbasaur --no-git-tag --snapshot
+          yarn changeset version --snapshot bulbasaur
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish Release
         id: publish
         run: |
-          yarn changeset publish --tag bulbasaur
+          yarn changeset publish --tag bulbasaur --no-git-tag --snapshot
         env:
           # Needs access to publish to npm
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
