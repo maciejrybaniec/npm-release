@@ -1,5 +1,11 @@
 # @rybaniec/react
 
+## 1.0.4
+
+### Patch Changes
+
+- [#35](https://github.com/maciejrybaniec/npm-release/pull/35) [`1c66032`](https://github.com/maciejrybaniec/npm-release/commit/1c66032ef06f9ae474150d37195a07c39ea2a169) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - security fix
+
 ## 1.0.3
 
 ### Patch Changes
