@@ -1,5 +1,23 @@
 # @rybaniec/ui
 
+## 2.0.0
+
+### Major Changes
+
+- [#28](https://github.com/maciejrybaniec/npm-release/pull/28) [`d38a3a8`](https://github.com/maciejrybaniec/npm-release/commit/d38a3a8802baa1a80966eeb942cb59a0bced91b8) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - breaking change
+
+  # WHAT
+
+  Removed interface
+
+  # WHY the change was made
+
+  Deprecation time
+
+  # HOW
+
+  Remove XYZ
+
 ## 1.0.2
 
 ### Patch Changes
