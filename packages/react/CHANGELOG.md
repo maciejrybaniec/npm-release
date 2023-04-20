@@ -1,5 +1,11 @@
 # @rybaniec/react
 
+## 4.0.0
+
+### Major Changes
+
+- [#49](https://github.com/maciejrybaniec/npm-release/pull/49) [`3b9a7ff`](https://github.com/maciejrybaniec/npm-release/commit/3b9a7ff3904a6d0149335ad93d029075c5659399) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - major
+
 ## 3.0.0
 
 ### Major Changes

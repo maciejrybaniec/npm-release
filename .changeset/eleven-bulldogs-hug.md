@@ -1,5 +1,0 @@
----
-"@rybaniec/react": major
----
-
-major
