@@ -1,1 +1,1 @@
-console.log('@mr/react 17');
+console.log('@mr/react 18');
