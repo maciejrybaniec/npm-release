@@ -1,5 +1,16 @@
 # @rybaniec/ui
 
+## 3.1.0
+
+### Minor Changes
+
+- [#48](https://github.com/maciejrybaniec/npm-release/pull/48) [`ba58f7e`](https://github.com/maciejrybaniec/npm-release/commit/ba58f7e3393083d1b47a201a594576bdac49e2e2) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - minor
+
+### Patch Changes
+
+- Updated dependencies [[`3b9a7ff`](https://github.com/maciejrybaniec/npm-release/commit/3b9a7ff3904a6d0149335ad93d029075c5659399)]:
+  - @rybaniec/react@4.0.0
+
 ## 3.0.2
 
 ### Patch Changes
