@@ -1,0 +1,5 @@
+---
+"@rybaniec/ui": minor
+---
+
+minor
