@@ -1,5 +1,0 @@
----
-"@rybaniec/ui": major
----
-
-major
