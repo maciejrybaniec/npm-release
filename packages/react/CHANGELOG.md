@@ -1,5 +1,11 @@
 # @rybaniec/react
 
+## 2.1.1
+
+### Patch Changes
+
+- [#51](https://github.com/maciejrybaniec/npm-release/pull/51) [`9447eb5`](https://github.com/maciejrybaniec/npm-release/commit/9447eb5b4b5168f32666d686331197ba52677912) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - fix critical security issue
+
 ## 2.1.0
 
 ### Minor Changes
