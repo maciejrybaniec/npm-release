@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@rybaniec/react": "workspace:~"
+    "@rybaniec/react": "workspace:~1.0.0"
   },
   "keywords": [],
   "author": "",
