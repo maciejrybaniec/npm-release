@@ -1,6 +1,7 @@
-name: Release
+name: Release Official
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
