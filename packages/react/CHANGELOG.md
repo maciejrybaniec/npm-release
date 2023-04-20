@@ -1,5 +1,15 @@
 # @rybaniec/react
 
+## 1.1.0
+
+### Minor Changes
+
+- [#40](https://github.com/maciejrybaniec/npm-release/pull/40) [`1625d85`](https://github.com/maciejrybaniec/npm-release/commit/1625d85abf22170acbae253cd9820eb6b3be770a) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - minor update
+
+### Patch Changes
+
+- [#37](https://github.com/maciejrybaniec/npm-release/pull/37) [`fcab24c`](https://github.com/maciejrybaniec/npm-release/commit/fcab24cd5593cc71696452b2535323b128b7f8a8) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - patch test
+
 ## 1.0.3
 
 ### Patch Changes
