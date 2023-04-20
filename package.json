@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "commit": "git cz",
-    "version": "changeset version && yarn install"
+    "version": "changeset version && YARN_ENABLE_IMMUTABLE_INSTALLS=false yarn install"
   },
   "keywords": [],
   "author": "",
