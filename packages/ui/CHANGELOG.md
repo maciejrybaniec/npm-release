@@ -1,5 +1,11 @@
 # @rybaniec/ui
 
+## 3.1.1-next.0
+
+### Patch Changes
+
+- [#53](https://github.com/maciejrybaniec/npm-release/pull/53) [`698915a`](https://github.com/maciejrybaniec/npm-release/commit/698915a367e2f417cc9f77b05d72e5a42822095a) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - test
+
 ## 3.1.0
 
 ### Minor Changes
