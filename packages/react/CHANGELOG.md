@@ -1,5 +1,26 @@
 # @rybaniec/react
 
+## 4.0.1
+
+### Patch Changes
+
+- [#57](https://github.com/maciejrybaniec/npm-release/pull/57) [`fd13b2d`](https://github.com/maciejrybaniec/npm-release/commit/fd13b2dbfd9aeebf11e77238a4d551ad99ae2fc7) Thanks [@maciejrybaniec](https://github.com/maciejrybaniec)! - Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+
+  ### List
+
+  - one
+  - two
+  - three
+
+  ### Code blocks
+
+  ```js
+  async function main() {
+    const allUsers = await prisma.user.findMany();
+    console.log(allUsers);
+  }
+  ```
+
 ## 4.0.0
 
 ### Major Changes
